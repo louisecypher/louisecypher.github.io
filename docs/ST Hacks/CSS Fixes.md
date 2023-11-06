@@ -1,0 +1,1 @@
+Personal modification in the CSS I did for SillyTavern 
