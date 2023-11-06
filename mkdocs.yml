@@ -3,7 +3,7 @@ site_name: Lycoris
 theme:
     name: 'material'
     icon:
-      logo: ming/bird
+      logo: ming/nature/bird_line
     palette:
 
     # Light mode
