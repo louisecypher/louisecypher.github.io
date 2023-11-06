@@ -1,11 +1,8 @@
-# Obsidian Notes
+# About this
 
-Publish your public notes with MkDocs
+I like writing *with things* and *about things*. These are my personal notes, rambles, analysis, *stuff* about what I write, what I read, what I use.
 
-## Hello World!
+Mostly, this is about using AI. Generative AI. Text, Image and whatever I feel like using at the moment. I enjoy playing the game, testing these things to the limit and in the process, getting something *pretty* out of it.
 
-The `index.md` in the `/docs` folder is the homepage you see here.
 
-The folders in `/docs` appear as the main sections on the navigation bar.
 
-The notes appear as pages within these sections. For example, [[Note 1]] in `Topic 1`
