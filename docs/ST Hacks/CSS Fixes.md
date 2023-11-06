@@ -1,6 +1,6 @@
 Personal modification in the CSS I did for SillyTavern:
 
-![](css_fix.png) 
+![css](css_fix.png) 
 
 ## Full Theme
 
