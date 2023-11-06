@@ -4,7 +4,7 @@ theme:
     name: 'material'
     custom_dir: overrides
     icon:
-      logo: ming\nature\bird_line
+      logo: ming/nature/bird_line
     palette:
 
     # Light mode
